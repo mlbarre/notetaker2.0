@@ -1,1 +1,1 @@
-# notetaker2.0
+# Welcome to Note Taker 2.0!
