@@ -4,13 +4,13 @@
 A note taker engine to create and store any notes you shall wish to remember.
 
 ## Table of Contents
-[Installation](#installation)
-[Usage](#usage)
-[License](#license)
-[Contributing](#contributing)
-[Tests](#tests)
-[Questions](#questions)
-[Repo](#repo)
+* [Installation](#installation)
+* [Usage](#usage)
+* [License](#license)
+* [Contributing](#contributing)
+* [Tests](#tests)
+* [Questions](#questions)
+* [Repo](#repo)
 
 ## Installation
 Node.js
