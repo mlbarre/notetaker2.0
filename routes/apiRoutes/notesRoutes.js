@@ -1,11 +1,12 @@
 const router = require('express').Router();
-const newNoteData = require('./db/db.json')
-
+const express = require('express');
+// const newNoteData = require('./db/db.json');
+const app = express();
 
 
 
 router.get('/api/notes', (req, res) => {
-    res.sendFile(path.join(__dirname, "./db/db.json"));
+    res.sendFile(path.join(__dirname, './db/db.json'));
 });
 
 router.post('/api/notes', (req, res) => {
