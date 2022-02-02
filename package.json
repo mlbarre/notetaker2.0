@@ -1,14 +1,24 @@
 {
-  "name": "note-taker",
+  "name": "notetaker2.0",
   "version": "1.0.0",
-  "description": "",
-  "main": "server.js",
+  "description": "## Description A note taker engine to create and store any notes you shall wish to remember.",
+  "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlbarre/notetaker2.0.git"
   },
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mlbarre/notetaker2.0/issues"
+  },
+  "homepage": "https://github.com/mlbarre/notetaker2.0#readme",
   "dependencies": {
-    "express": "^4.17.2"
+    "express": "^4.17.2",
+    "jest": "^27.4.7"
   }
 }
